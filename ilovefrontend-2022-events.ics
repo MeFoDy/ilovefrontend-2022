@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//ical.marudot.com//iCal Event Maker
-X-WR-CALNAME:Календарь «Я Люблю Фронтенд 2022»
-NAME:Календарь «Я Люблю Фронтенд 2022»
+PRODID:-//ilovefrontend2022//calendar//RU
+X-WR-CALNAME:«Я Люблю Фронтенд 2022»
+NAME:«Я Люблю Фронтенд 2022»
 REFRESH-INTERVAL;VALUE=DURATION:P30M
 CALSCALE:GREGORIAN
 BEGIN:VTIMEZONE
