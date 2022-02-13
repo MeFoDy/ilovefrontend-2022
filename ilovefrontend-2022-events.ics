@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//ilovefrontend2022//calendar//RU
+PRODID:-//yalovefrontend2022//calendar//RU
 X-WR-CALNAME:«Я Люблю Фронтенд 2022»
 NAME:«Я Люблю Фронтенд 2022»
 REFRESH-INTERVAL;VALUE=DURATION:P30M
@@ -20,6 +20,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTSTAMP:20220211T095320Z
 UID:1644571758172-57807@ical.marudot.com
+SEQUENCE:0
 DTSTART;TZID=Europe/Moscow:20220215T120000
 DTEND;TZID=Europe/Moscow:20220215T133000
 SUMMARY:Послушать подкаст «Веб-стандарты»
@@ -34,6 +35,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220211T095320Z
 UID:1644571894711-23080@ical.marudot.com
+SEQUENCE:0
 DTSTART;TZID=Europe/Moscow:20220216T190000
 DTEND;TZID=Europe/Moscow:20220216T210000
 SUMMARY:Предмартовский Доктор Кот [стрим]
@@ -48,6 +50,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220211T095320Z
 UID:1644571902141-12763@ical.marudot.com
+SEQUENCE:0
 DTSTART;TZID=Europe/Moscow:20220217T190000
 DTEND;TZID=Europe/Moscow:20220217T200000
 SUMMARY:Посмотреть лайв Доки [стрим]
@@ -62,6 +65,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220211T095320Z
 UID:1644571953873-47076@ical.marudot.com
+SEQUENCE:0
 DTSTART;TZID=Europe/Moscow:20220218T190000
 DTEND;TZID=Europe/Moscow:20220218T210000
 SUMMARY:Выбрать лучший редактор кода [стрим]
@@ -76,11 +80,12 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220211T095320Z
 UID:1644572109348-47731@ical.marudot.com
+SEQUENCE:0
 DTSTART;TZID=Europe/Moscow:20220219T183000
 DTEND;TZID=Europe/Moscow:20220219T200000
 SUMMARY:Образовательное чаепитие [видео]
 URL:https://yandex.ru/promo/events/ya-love-frontend-2022
-DESCRIPTION:Ушла эпоха веб-мастеров\, когда можно было научиться делать сайты с помощью книг и CHM-файлов. Как теперь учиться писать веб? Где учиться\, если ты уже мидл? Нужен ли ментор? Нужно ли вообще образование во фронтенде? Посидим на кухне и в дружеской обстановке обсудим эти темы с опытными мастерами фронтенда за чашкой чая.\n\nСсылка появится на сайте 20 февраля 💛
+DESCRIPTION:Ушла эпоха веб-мастеров\, когда можно было научиться делать сайты с помощью книг и CHM-файлов. Как теперь учиться писать веб? Где учиться\, если ты уже мидл? Нужен ли ментор? Нужно ли вообще образование во фронтенде? Посидим на кухне и в дружеской обстановке обсудим эти темы с опытными мастерами фронтенда за чашкой чая.\n\nСсылка появится на сайте 19 февраля 💛
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Образовательное чаепитие [видео]
@@ -90,6 +95,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220211T095320Z
 UID:1644572008535-87370@ical.marudot.com
+SEQUENCE:0
 DTSTART;TZID=Europe/Moscow:20220220T130000
 DTEND;TZID=Europe/Moscow:20220220T170000
 SUMMARY:Захватить все флаги [турнир]
@@ -104,6 +110,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220211T095320Z
 UID:1644573015438-39756@ical.marudot.com
+SEQUENCE:0
 DTSTART;TZID=Europe/Moscow:20220221T190000
 DTEND;TZID=Europe/Moscow:20220221T203000
 SUMMARY:Посмотреть лекцию про безопасность фронтенда [видео]
@@ -118,6 +125,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220211T095320Z
 UID:1644572279106-57032@ical.marudot.com
+SEQUENCE:0
 DTSTART;TZID=Europe/Moscow:20220222T183000
 DTEND;TZID=Europe/Moscow:20220222T203000
 SUMMARY:Пишем свой текстовый редактор (часть 1) [воркшоп]
@@ -132,6 +140,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220211T095320Z
 UID:1644572329604-80609@ical.marudot.com
+SEQUENCE:0
 DTSTART;TZID=Europe/Moscow:20220224T183000
 DTEND;TZID=Europe/Moscow:20220224T203000
 SUMMARY:Пишем свой текстовый редактор (часть 2) [воркшоп]
@@ -146,6 +155,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220211T095320Z
 UID:1644572201250-89970@ical.marudot.com
+SEQUENCE:0
 DTSTART;TZID=Europe/Moscow:20220225T180000
 DTEND;TZID=Europe/Moscow:20220225T203000
 SUMMARY:Фронтенду нужны новые герои [видео]
@@ -160,6 +170,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220211T095320Z
 UID:1644570302092-81959@ical.marudot.com
+SEQUENCE:0
 DTSTART;TZID=Europe/Moscow:20220226T103000
 DTEND;TZID=Europe/Moscow:20220226T190000
 SUMMARY:Конференция «Я Люблю Фронтенд»
